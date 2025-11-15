@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 About Me
 
+Full-stack software engineer building scalable distributed systems. Backend-focused with strong frontend capabilities across Angular, React, and modern web frameworks. 
+
+Working with C#/.NET microservices, Node.js APIs, and cloud-native architecture on Azure (AKS, Service Bus, Cosmos DB). Experienced in infrastructure as code (Bicep, Terraform), event-driven systems (ASB, Kafka, RabbitMQ), and production reliability.
+
+Passionate about solving real-world problems at scale and building robust, performant applications.
+
+📍 Abuja, Nigeria 🇳🇬
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abraham-inyaka-159783207) 
