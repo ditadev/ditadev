@@ -1,12 +1,18 @@
-## 👋 About Me
-
-Full-stack software engineer building scalable distributed systems. Backend-focused with strong frontend capabilities across Angular, React, and modern web frameworks. 
-
-Working with C#/.NET microservices, Node.js APIs, and cloud-native architecture on Azure (AKS, Service Bus, Cosmos DB). Experienced in infrastructure as code (Bicep, Terraform), event-driven systems (ASB, Kafka, RabbitMQ), and production reliability.
-
-Passionate about solving real-world problems at scale and building robust, performant applications.
-
-📍 Abuja, Nigeria 🇳🇬
+<div align="center">
+# Abraham Prince Inyaka
+ 
+**`$ whoami — backend engineer · distributed systems`**
+ 
+Building event-driven backend systems that hold up in production —
+services that move money, generate contracts, and roll out across markets without big-bang releases.
+ 
+📍 Abuja, Nigeria 🇳🇬 · open to relocate worldwide
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-abraham--inyaka.vercel.app-4E9CF5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505)](https://abraham-inyaka.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://linkedin.com/in/abraham-inyaka-159783207)
+[![Email](https://img.shields.io/badge/Email-Say_hello-E0A43C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:abrahaminyaka@yahoo.com)
+ 
+</div>
 
 ## 🤝 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-inyaka-159783207)
