@@ -9,20 +9,11 @@ services that move money, generate contracts, and roll out across markets withou
 
 📍 Abuja, Nigeria 🇳🇬 · open to relocate worldwide
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abraham--inyaka.vercel.app-4E9CF5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505)](https://abraham-inyaka.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://linkedin.com/in/abraham-inyaka-159783207)
-[![Email](https://img.shields.io/badge/Email-Say_hello-E0A43C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:abrahaminyaka@yahoo.com)
 
 </div>
 
 ---
-
-## ⚡ Currently
-
-- **Backend Engineer @ M-KOPA** — building and operating event-sourced microservices on the customer onboarding and payments path, serving markets across Kenya, Uganda, Ghana, and South Africa
-- **Building AI agent tooling my team uses daily** — a stream investigator that walks event streams to debug production issues, an AI code reviewer, and a story creator that turns design docs into Azure DevOps work items — wired over **MCP** (Azure DevOps, App Insights, Grafana, Notion) with **Claude Code** + **OpenSpec**
-- Deep in **production readiness** — SLOs, alerting that doesn't cry wolf, and migrating live systems off legacy paths without stranding customers mid-flow
-
 ## 💻 Tech Stack
 
 ### Backend & Architecture
@@ -45,12 +36,6 @@ services that move money, generate contracts, and roll out across markets withou
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ditadev&hide_border=false&include_all_commits=true&count_private=false&bg_color=050505&border_color=1e1e1e&title_color=4e9cf5&text_color=b9b8b1&icon_color=e0a43c)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ditadev&hide_border=false&background=050505&border=1e1e1e&ring=4e9cf5&fire=e0a43c&currStreakLabel=4e9cf5&sideLabels=b9b8b1&currStreakNum=ecebe6&sideNums=ecebe6&dates=85847e)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ditadev&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=050505&border_color=1e1e1e&title_color=4e9cf5&text_color=b9b8b1)
 
 ---
 
