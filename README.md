@@ -52,9 +52,5 @@ Passionate about solving real-world problems at scale and building robust, perfo
 ### Other
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ditadev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ditadev&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ditadev&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
