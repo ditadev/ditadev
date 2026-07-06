@@ -8,14 +8,9 @@ services that move money, generate contracts, and roll out across markets withou
  
 📍 Abuja, Nigeria 🇳🇬 · open to relocate worldwide
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-abraham--inyaka.vercel.app-4E9CF5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050505)](https://abraham-inyaka.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505)](https://linkedin.com/in/abraham-inyaka-159783207)
-[![Email](https://img.shields.io/badge/Email-Say_hello-E0A43C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505)](mailto:abrahaminyaka@yahoo.com)
  
 </div>
-
-## 🤝 Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abraham-inyaka-159783207)
 
 # 💻 Tech Stack:
 
